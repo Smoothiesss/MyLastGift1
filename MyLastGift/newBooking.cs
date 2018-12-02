@@ -111,6 +111,8 @@ namespace MyLastGift
 
         public void updatePrice(double days)
         {
+            string roomType = roomTypeComboBox.Text;
+
             int roomPrice = 500;
             int tmp =   roomPrice * (int)days;
             priceLabel.Text = tmp.ToString();

@@ -46,6 +46,7 @@
     <Compile Include="DataProvider.cs" />
     <Compile Include="GuestDB.cs" />
     <Compile Include="NhanVienDB.cs" />
+    <Compile Include="PrepaidDB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RoomDB.cs" />
     <Compile Include="RoomTypeDB.cs" />

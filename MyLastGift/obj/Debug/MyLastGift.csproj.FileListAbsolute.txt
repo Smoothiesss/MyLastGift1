@@ -1011,7 +1011,6 @@ C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\de\MyLastGift.reso
 C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\es\MyLastGift.resources.dll
 C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\ja\MyLastGift.resources.dll
 C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\ru\MyLastGift.resources.dll
-C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.exe.licenses
 C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\MyLastGift.exe.config
 C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.exe
 C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.pdb
@@ -1194,3 +1193,4 @@ C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\de\MyLastGift.res
 C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\es\MyLastGift.resources.dll
 C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\ja\MyLastGift.resources.dll
 C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\ru\MyLastGift.resources.dll
+C:\Users\Zunnie\Desktop\cnpm\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.exe.licenses

@@ -7,6 +7,7 @@ using DTO;
 using DAO;
 using Excel = Microsoft.Office.Interop.Excel;
 using System.IO;
+using System.Data;
 
 namespace BUS
 {
@@ -15,6 +16,8 @@ namespace BUS
         BookingBUS bBUS;
         RoomBUS rBUS;
         GuestBUS gBUS;
+        ConsumeBUS cBUS;
+        PrepaidDB pDB;
 
 
         public PayBUS()
@@ -22,6 +25,30 @@ namespace BUS
             bBUS = new BookingBUS();
             rBUS = new RoomBUS();
             gBUS = new GuestBUS();
+            cBUS = new ConsumeBUS();
+            pDB = new PrepaidDB();
+        }
+        private Prepaid dataTableToPrepaid(DataRow dr)
+        {
+            int ID = (int)(dr["bookingID"]);  // Beware of the possible conversion errors due to type mismatches
+            string bookingType = (dr["bookingtypeid"]).ToString();
+            int amount = (int)(dr["AMOUNT"]);
+            DateTime dates = (DateTime)(dr["dateRecive"]);
+            int nhanvien = (int)(dr["nhanvienid"]);
+            Console.WriteLine(ID);
+            return new Prepaid(ID, bookingType,amount,dates,nhanvien);
+        }
+
+        public Prepaid getPrepaid(Booking b)
+        {
+            DataTable dt = pDB.getByID(b.BookingID.ToString(),b.BookingTypeID);
+            Prepaid ans = new Prepaid();
+            foreach (DataRow dr in dt.Rows)
+            {
+
+                ans = dataTableToPrepaid(dr);
+            }
+            return ans;
         }
 
         public void PayingSheet(Booking b)
@@ -29,6 +56,8 @@ namespace BUS
             Room r = rBUS.getRoomByID(b.RoomID);
             RoomType rt= rBUS.getRoomTypeByID(r.RoomType);
             Guest g = gBUS.getGuestByID(b.GuestID);
+            Consume c = cBUS.getConsumeByID(b.BookingID.ToString(), b.BookingTypeID);
+            Prepaid p = getPrepaid(b);
             Excel.Application xlApp = new Excel.Application();
             Excel.Workbook xlWorkbook = xlApp.Workbooks.Open(@"C:\Users\Zunnie\Desktop\MyLastGift\BUS\thanhtoan.xlsx");
             Excel._Worksheet xlWorksheet = xlWorkbook.Sheets[1];
@@ -48,6 +77,13 @@ namespace BUS
             double days =   Math.Ceiling((double)span.TotalHours / 24);
             xlRange.Cells[11, 5].Value2 = days.ToString();
             xlRange.Cells[11, 6].Value2 = rt.Price.ToString();
+            xlRange.Cells[12, 5].Value2 = c.Surchare.ToString();
+            xlRange.Cells[13, 5].Value2 = c.CoCaCola.ToString();
+            xlRange.Cells[14, 5].Value2 = c.Lavie.ToString();
+            xlRange.Cells[15, 5].Value2 = c.Snack.ToString();
+            xlRange.Cells[16, 5].Value2 = c.InstantNoodle.ToString();
+            xlRange.Cells[17, 5].Value2 = c.ExtraBed.ToString();
+            xlRange.Cells[19, 7].Value2 = p.Amount.ToString();
             string sNewFileName = Path.Combine(Path.GetDirectoryName(@"C:\Users\ZunNie\Desktop\"),
                 string.Concat(r.RoomID, "_", DateTime.Today.ToString("ddmmyyyy"), ".xlsx"));
             xlWorkbook.SaveAs(sNewFileName);

@@ -8,6 +8,10 @@ namespace DTO
 {
     public class Consume
     {
+        public Consume()
+        {
+
+        }
         public Consume(int bookingID, string bookingtypeID, int surchare, int cocacola, int instantNoodle, int lavie, int snack, int extrabed)
         {
             this.bookingID = bookingID;

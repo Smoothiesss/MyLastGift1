@@ -89,5 +89,28 @@ namespace DAO
             }
             return true;
         }
+
+        public int getPrice(string roomTypeID)
+        {
+            string sql = "select price from roomType where roomTypeID = @id";
+            int ans = 0;
+            SqlConnection conn = dp.getConnection();
+            cmd = new SqlCommand(sql, conn);
+            try
+            {
+                conn.Open();
+                cmd.Parameters.Add("@id", SqlDbType.Char).Value = roomTypeID;
+
+                ans = (int)cmd.ExecuteScalar();
+
+                conn.Close();
+
+            }
+            catch(Exception)
+            {
+                return ans;
+            }
+            return ans;
+        }
     }
 }

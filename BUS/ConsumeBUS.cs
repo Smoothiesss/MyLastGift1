@@ -17,20 +17,31 @@ namespace BUS
         {
             cDB = new ConsumeDB();
         }
-        /*
-        private Guest dataTableToGuest(DataRow dr)
+        private Consume dataTableToConsume(DataRow dr)
         {
-            string ID = (dr["bookingID"]).ToString();  // Beware of the possible conversion errors due to type mismatches
+            int ID = (int)(dr["bookingID"]);  // Beware of the possible conversion errors due to type mismatches
             string bookingType = (dr["bookingtypeid"]).ToString();
-            string surchare = (dr["surchare"]).ToString();
-            DateTime dt = (DateTime)dr["DOB"];
+            int surchare = (int)(dr["surchare"]);
+            int cocacola = (int)(dr["cocacola"]);
+            int lavie = (int)(dr["lavie"]);
+            int snack = (int)(dr["snack"]);
+            int noodle = (int)(dr["instantnoodle"]);
+            int extrabed = (int)(dr["extrabed"]);
 
-            return new Guest(ID, fullName, nationality, dt);
+
+            return new Consume(ID, bookingType,surchare,cocacola,noodle,lavie,snack,extrabed);
         }
         public Consume getConsumeByID(string ID, string typeID)
         {
+            DataTable dt = cDB.getByID(ID,typeID);
+            Consume ans = new Consume();
+            foreach (DataRow dr in dt.Rows)
+            {
 
-        }*/
+                ans = dataTableToConsume(dr);
+            }
+            return ans;
+        }
 
         public bool delete(Consume c)
         {
