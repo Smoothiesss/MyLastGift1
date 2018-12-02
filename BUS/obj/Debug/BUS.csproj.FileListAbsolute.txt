@@ -1,0 +1,58 @@
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\BUS\bin\Debug\BUS.dll
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\BUS\bin\Debug\BUS.pdb
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\BUS\bin\Debug\DAO.dll
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\BUS\bin\Debug\DTO.dll
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\BUS\bin\Debug\DAO.pdb
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\BUS\bin\Debug\DTO.pdb
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\BUS\obj\Debug\BUS.dll
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\BUS\obj\Debug\BUS.pdb
+C:\Users\Zunnie\Desktop\MyLastGift\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Zunnie\Desktop\MyLastGift\BUS\obj\Debug\BUS.dll
+C:\Users\Zunnie\Desktop\MyLastGift\BUS\obj\Debug\BUS.pdb
+C:\Users\Zunnie\Desktop\MyLastGift\BUS\bin\Debug\BUS.dll
+C:\Users\Zunnie\Desktop\MyLastGift\BUS\bin\Debug\BUS.pdb
+C:\Users\Zunnie\Desktop\MyLastGift\BUS\bin\Debug\DAO.dll
+C:\Users\Zunnie\Desktop\MyLastGift\BUS\bin\Debug\DTO.dll
+C:\Users\Zunnie\Desktop\MyLastGift\BUS\bin\Debug\DAO.pdb
+C:\Users\Zunnie\Desktop\MyLastGift\BUS\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\MyLastGift\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\MyLastGift\BUS\obj\Debug\BUS.dll
+C:\Users\ngquo\Desktop\MyLastGift\BUS\obj\Debug\BUS.pdb
+C:\Users\ngquo\Desktop\MyLastGift\BUS\bin\Debug\BUS.dll
+C:\Users\ngquo\Desktop\MyLastGift\BUS\bin\Debug\BUS.pdb
+C:\Users\ngquo\Desktop\MyLastGift\BUS\bin\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift\BUS\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\MyLastGift\BUS\bin\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift\BUS\bin\Debug\DTO.pdb
+C:\Users\Zunnie\Desktop\MyLastGift\BUS\obj\Debug\BUS.csproj.ResolveComReference.cache
+C:\Users\ngquo\Desktop\MyLastGift1\BUS\bin\Debug\BUS.dll
+C:\Users\ngquo\Desktop\MyLastGift1\BUS\bin\Debug\BUS.pdb
+C:\Users\ngquo\Desktop\MyLastGift1\BUS\bin\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift1\BUS\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\MyLastGift1\BUS\bin\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1\BUS\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\MyLastGift1\BUS\obj\Debug\BUS.csproj.ResolveComReference.cache
+C:\Users\ngquo\Desktop\MyLastGift1\BUS\obj\Debug\BUS.dll
+C:\Users\ngquo\Desktop\MyLastGift1\BUS\obj\Debug\BUS.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\BUS\bin\Debug\BUS.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\BUS\bin\Debug\BUS.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\BUS\bin\Debug\DAO.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\BUS\bin\Debug\DTO.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\BUS\bin\Debug\DAO.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\BUS\bin\Debug\DTO.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\BUS\obj\Debug\BUS.csproj.ResolveComReference.cache
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\BUS\obj\Debug\BUS.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\BUS\obj\Debug\BUS.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\bin\Debug\BUS.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\bin\Debug\BUS.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\bin\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\bin\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\obj\Debug\BUS.csproj.ResolveComReference.cache
+C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\obj\Debug\BUS.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\obj\Debug\BUS.pdb

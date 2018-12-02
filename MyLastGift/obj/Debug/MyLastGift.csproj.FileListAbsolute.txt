@@ -1,0 +1,1196 @@
+c:\users\zunnie\documents\visual studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\MyLastGift.exe.config
+c:\users\zunnie\documents\visual studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\MyLastGift.exe
+c:\users\zunnie\documents\visual studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\MyLastGift.pdb
+c:\users\zunnie\documents\visual studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.csprojResolveAssemblyReference.cache
+c:\users\zunnie\documents\visual studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Properties.Resources.resources
+c:\users\zunnie\documents\visual studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.csproj.GenerateResource.Cache
+c:\users\zunnie\documents\visual studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.exe
+c:\users\zunnie\documents\visual studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.pdb
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\bin\Debug\MyLastGift.exe.config
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\obj\Debug\MyLastGift.exe
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\obj\Debug\MyLastGift.pdb
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\obj\Debug\MyLastGift.csprojResolveAssemblyReference.cache
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Properties.Resources.resources
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\obj\Debug\MyLastGift.csproj.GenerateResource.Cache
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\bin\Debug\MyLastGift.exe
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\bin\Debug\MyLastGift.pdb
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\bin\Debug\BUS.dll
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\bin\Debug\DTO.dll
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\bin\Debug\MaterialSkin.dll
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\bin\Debug\DAO.dll
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\bin\Debug\BUS.pdb
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\bin\Debug\DTO.pdb
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\MyLastGift\bin\Debug\DAO.pdb
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\MyLastGift.exe.config
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.exe
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.pdb
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\MyLastGift.exe
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\MyLastGift.pdb
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\BUS.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DTO.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\MaterialSkin.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DAO.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\BUS.pdb
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DTO.pdb
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DAO.pdb
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Form1.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Properties.Resources.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.csproj.GenerateResource.Cache
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.LeftView.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.DateNavigator.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.overview1.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Booking.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.editGuestInfo.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.searchTextBox.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Form3.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.bookingInfo.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.ScheduleTab.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.HouseBookingTab.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.exe.licenses
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.LoginForm.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.currentStatus.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.reportTab.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.roomIcon.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\obj\Debug\MyLastGift.BookingInformation.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\MyLastGift.exe.config
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.exe
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.pdb
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\MyLastGift.exe
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\MyLastGift.pdb
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\BUS.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DAO.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DTO.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\MaterialSkin.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\BUS.pdb
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DAO.pdb
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DTO.pdb
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.Booking.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.bookingInfo.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.BookingInformation.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.currentStatus.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.DateNavigator.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.editGuestInfo.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.Form1.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.Form3.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.HouseBookingTab.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.LeftView.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.LoginForm.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.overview1.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.Properties.Resources.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.reportTab.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.roomIcon.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.ScheduleTab.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.searchTextBox.resources
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.csproj.GenerateResource.Cache
+C:\Users\ngquo\Documents\Visual Studio 2015\Projects\MyLastGift9\MyLastGift\obj\Debug\MyLastGift.exe.licenses
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\MyLastGift.exe.config
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.exe
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.pdb
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.csprojResolveAssemblyReference.cache
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Booking.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.bookingInfo.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.BookingInformation.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.currentStatus.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.DateNavigator.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.editGuestInfo.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Form1.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Form3.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.HouseBookingTab.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.LeftView.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.LoginForm.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.overview1.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Properties.Resources.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.reportTab.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.roomIcon.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Schedule.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.ScheduleTab.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.searchTextBox.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.csproj.GenerateResource.Cache
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\MyLastGift.exe
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\MyLastGift.pdb
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\BUS.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DAO.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DTO.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\MaterialSkin.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\BUS.pdb
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DAO.pdb
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DTO.pdb
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Zunnie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.roomListView.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.exe.licenses
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.newBooking.resources
+C:\Users\ZunNie\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.newEditGuest.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\MyLastGift.exe.config
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.exe
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.pdb
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\MyLastGift.exe
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\MyLastGift.pdb
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\BUS.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\MaterialSkin.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\BUS.pdb
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Booking.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.bookingInfo.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.BookingInformation.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.currentStatus.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.DateNavigator.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.editGuestInfo.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Form1.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Form3.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.HouseBookingTab.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.LeftView.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.LoginForm.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.newBooking.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.newEditGuest.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.overview1.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Properties.Resources.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.reportTab.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.roomIcon.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.roomListView.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.Schedule.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.ScheduleTab.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.searchTextBox.resources
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.csproj.GenerateResource.Cache
+C:\Users\ngquo\Desktop\MyLastGift\MyLastGift\obj\Debug\MyLastGift.exe.licenses
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\MyLastGift.exe.config
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.exe
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.pdb
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\MyLastGift.exe
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\MyLastGift.pdb
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\BUS.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\MaterialSkin.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\BUS.pdb
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Booking.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.bookingInfo.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.BookingInformation.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.currentStatus.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.DateNavigator.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.editGuestInfo.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Form1.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Form3.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.HouseBookingTab.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.LeftView.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.LoginForm.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.newBooking.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.newEditGuest.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.overview1.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Properties.Resources.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.reportTab.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.roomIcon.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.roomListView.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Schedule.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.ScheduleTab.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.searchTextBox.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.csproj.GenerateResource.Cache
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.exe.licenses
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Extra.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Calculate.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\de\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\es\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ja\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\bin\Debug\ru\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.de.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.es.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.ja.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.ru.resources
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\de\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\es\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\ja\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1\MyLastGift\obj\Debug\ru\MyLastGift.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\MyLastGift.exe.config
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.exe
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.csprojResolveAssemblyReference.cache
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Admin.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Booking.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.bookingInfo.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.BookingInformation.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Calculate.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.currentStatus.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.DateNavigator.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.editGuestInfo.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Extra.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Form1.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Form3.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.HouseBookingTab.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.LeftView.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.LoginForm.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.newBooking.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.newEditGuest.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.overview1.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Properties.Resources.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.reportTab.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.roomIcon.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.roomListView.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.Schedule.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.ScheduleTab.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.searchTextBox.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.de.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.es.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.ja.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.ru.resources
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.csproj.GenerateResource.Cache
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\MyLastGift.exe
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\MyLastGift.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\MyLastGift.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\MyLastGift.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\MyLastGift.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\MyLastGift.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\BUS.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DAO.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DTO.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\MaterialSkin.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\BUS.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DAO.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DTO.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\de\MyLastGift.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\es\MyLastGift.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\ja\MyLastGift.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\ru\MyLastGift.resources.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.exe.licenses
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\MyLastGift.exe.config
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.exe
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\MyLastGift.exe
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\MyLastGift.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\BUS.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\MaterialSkin.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\BUS.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.Admin.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.Booking.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.bookingInfo.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.BookingInformation.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.Calculate.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.currentStatus.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.DateNavigator.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.editGuestInfo.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.Extra.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.Form1.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.Form3.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.HouseBookingTab.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.LeftView.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.LoginForm.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.newBooking.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.newEditGuest.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.overview1.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.Properties.Resources.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.reportTab.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.roomIcon.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.roomListView.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.Schedule.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.ScheduleTab.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.searchTextBox.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.de.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.es.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.ja.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.OutlookAppointmentForm.ru.resources
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.csproj.GenerateResource.Cache
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\MyLastGift.exe.licenses
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\de\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\es\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\ja\MyLastGift.resources.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\MyLastGift\obj\Debug\ru\MyLastGift.resources.dll

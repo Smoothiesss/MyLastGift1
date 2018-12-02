@@ -1,0 +1,42 @@
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\DAO\bin\Debug\DAO.dll
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\DAO\bin\Debug\DAO.pdb
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\DAO\bin\Debug\DTO.dll
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\DAO\bin\Debug\DTO.pdb
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\DAO\obj\Debug\DAO.dll
+C:\Users\Zunnie\Documents\Visual Studio 2015\Projects\MyLastGift\MyLastGift\DAO\obj\Debug\DAO.pdb
+C:\Users\Zunnie\Desktop\MyLastGift\DAO\bin\Debug\DAO.dll
+C:\Users\Zunnie\Desktop\MyLastGift\DAO\bin\Debug\DAO.pdb
+C:\Users\Zunnie\Desktop\MyLastGift\DAO\bin\Debug\DTO.dll
+C:\Users\Zunnie\Desktop\MyLastGift\DAO\bin\Debug\DTO.pdb
+C:\Users\Zunnie\Desktop\MyLastGift\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Zunnie\Desktop\MyLastGift\DAO\obj\Debug\DAO.dll
+C:\Users\Zunnie\Desktop\MyLastGift\DAO\obj\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift\DAO\bin\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift\DAO\bin\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift\DAO\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\MyLastGift\DAO\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\MyLastGift\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\MyLastGift\DAO\obj\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift\DAO\obj\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1\DAO\bin\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift1\DAO\bin\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1\DAO\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\MyLastGift1\DAO\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\MyLastGift1\DAO\obj\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift1\DAO\obj\Debug\DAO.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\DAO\bin\Debug\DAO.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\DAO\bin\Debug\DAO.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\DAO\bin\Debug\DTO.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\DAO\bin\Debug\DTO.pdb
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\DAO\obj\Debug\DAO.dll
+C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\DAO\obj\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\DAO\bin\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\DAO\bin\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\DAO\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\DAO\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\MyLastGift1-master\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\MyLastGift1-master\DAO\obj\Debug\DAO.dll
+C:\Users\ngquo\Desktop\MyLastGift1-master\DAO\obj\Debug\DAO.pdb
