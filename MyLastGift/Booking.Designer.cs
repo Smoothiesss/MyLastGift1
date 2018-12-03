@@ -56,6 +56,7 @@
             this.bookingInformation1 = new MyLastGift.BookingInformation();
             this.newEditGuest1 = new MyLastGift.newEditGuest();
             this.editGuestInfo1 = new MyLastGift.editGuestInfo();
+            this.btnLoad = new System.Windows.Forms.Button();
             this.panel5.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.bOOKINGBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.behaviorManager1)).BeginInit();
@@ -69,6 +70,7 @@
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.White;
+            this.panel5.Controls.Add(this.btnLoad);
             this.panel5.Controls.Add(this.btnBook);
             this.panel5.Controls.Add(this.materialDivider1);
             this.panel5.Controls.Add(this.dateNavigator1);
@@ -338,7 +340,9 @@
             this.newBooking1.BackColor = System.Drawing.Color.White;
             this.newBooking1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.newBooking1.Location = new System.Drawing.Point(0, 0);
+            this.newBooking1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.newBooking1.Name = "newBooking1";
+            this.newBooking1.Nv = null;
             this.newBooking1.Size = new System.Drawing.Size(380, 875);
             this.newBooking1.TabIndex = 4;
             // 
@@ -356,6 +360,7 @@
             this.newEditGuest1.BackColor = System.Drawing.Color.White;
             this.newEditGuest1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.newEditGuest1.Location = new System.Drawing.Point(0, 0);
+            this.newEditGuest1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.newEditGuest1.Name = "newEditGuest1";
             this.newEditGuest1.Size = new System.Drawing.Size(380, 875);
             this.newEditGuest1.TabIndex = 12;
@@ -370,6 +375,20 @@
             this.editGuestInfo1.Size = new System.Drawing.Size(380, 875);
             this.editGuestInfo1.TabIndex = 0;
             this.editGuestInfo1.Visible = false;
+            // 
+            // btnLoad
+            // 
+            this.btnLoad.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(166)))), ((int)(((byte)(128)))));
+            this.btnLoad.FlatAppearance.BorderSize = 0;
+            this.btnLoad.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnLoad.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnLoad.Location = new System.Drawing.Point(520, 13);
+            this.btnLoad.Name = "btnLoad";
+            this.btnLoad.Size = new System.Drawing.Size(111, 38);
+            this.btnLoad.TabIndex = 4;
+            this.btnLoad.Text = "Load";
+            this.btnLoad.UseVisualStyleBackColor = false;
+            this.btnLoad.Click += new System.EventHandler(this.btnLoad_Click);
             // 
             // Booking
             // 
@@ -422,5 +441,6 @@
         private newEditGuest newEditGuest1;
         private editGuestInfo editGuestInfo1;
         public DevExpress.XtraGrid.GridControl gridControl1;
+        private System.Windows.Forms.Button btnLoad;
     }
 }

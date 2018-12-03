@@ -60,7 +60,7 @@ namespace MyLastGift
 
         public void setBookingTypeID(String bookingTypeID)
         {
-            this.bookingTypeComboBox.Text = bookingTypeID;
+            
         }
 
         public void setGuestNation(String nation)

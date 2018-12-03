@@ -38,14 +38,14 @@
             this.nameLabel = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.materialDivider2 = new MaterialSkin.Controls.MaterialDivider();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.guestIDTextBox = new System.Windows.Forms.TextBox();
             this.idLabel = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.materialDivider3 = new MaterialSkin.Controls.MaterialDivider();
             this.label2 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
             this.materialDivider4 = new MaterialSkin.Controls.MaterialDivider();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.nationTextBox = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.btnSave = new System.Windows.Forms.Button();
             this.dateOfBirth = new DevExpress.XtraEditors.DateEdit();
@@ -146,7 +146,7 @@
             // panel2
             // 
             this.panel2.Controls.Add(this.materialDivider2);
-            this.panel2.Controls.Add(this.textBox1);
+            this.panel2.Controls.Add(this.guestIDTextBox);
             this.panel2.Controls.Add(this.idLabel);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 130);
@@ -167,15 +167,15 @@
             this.materialDivider2.TabIndex = 6;
             this.materialDivider2.Text = "materialDivider2";
             // 
-            // textBox1
+            // guestIDTextBox
             // 
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.textBox1.Location = new System.Drawing.Point(4, 50);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(376, 15);
-            this.textBox1.TabIndex = 5;
+            this.guestIDTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.guestIDTextBox.Dock = System.Windows.Forms.DockStyle.Right;
+            this.guestIDTextBox.Location = new System.Drawing.Point(4, 50);
+            this.guestIDTextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guestIDTextBox.Name = "guestIDTextBox";
+            this.guestIDTextBox.Size = new System.Drawing.Size(376, 15);
+            this.guestIDTextBox.TabIndex = 5;
             // 
             // idLabel
             // 
@@ -228,7 +228,7 @@
             // panel4
             // 
             this.panel4.Controls.Add(this.materialDivider4);
-            this.panel4.Controls.Add(this.textBox3);
+            this.panel4.Controls.Add(this.nationTextBox);
             this.panel4.Controls.Add(this.label3);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel4.Location = new System.Drawing.Point(0, 290);
@@ -249,15 +249,15 @@
             this.materialDivider4.TabIndex = 6;
             this.materialDivider4.Text = "materialDivider4";
             // 
-            // textBox3
+            // nationTextBox
             // 
-            this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox3.Dock = System.Windows.Forms.DockStyle.Right;
-            this.textBox3.Location = new System.Drawing.Point(4, 50);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(376, 15);
-            this.textBox3.TabIndex = 5;
+            this.nationTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.nationTextBox.Dock = System.Windows.Forms.DockStyle.Right;
+            this.nationTextBox.Location = new System.Drawing.Point(4, 50);
+            this.nationTextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.nationTextBox.Name = "nationTextBox";
+            this.nationTextBox.Size = new System.Drawing.Size(376, 15);
+            this.nationTextBox.TabIndex = 5;
             // 
             // label3
             // 
@@ -337,16 +337,16 @@
         private System.Windows.Forms.Label nameLabel;
         private System.Windows.Forms.Panel panel2;
         private MaterialSkin.Controls.MaterialDivider materialDivider2;
-        public System.Windows.Forms.TextBox textBox1;
+        public System.Windows.Forms.TextBox guestIDTextBox;
         private System.Windows.Forms.Label idLabel;
         private System.Windows.Forms.Panel panel3;
         private MaterialSkin.Controls.MaterialDivider materialDivider3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Panel panel4;
         private MaterialSkin.Controls.MaterialDivider materialDivider4;
-        public System.Windows.Forms.TextBox textBox3;
+        public System.Windows.Forms.TextBox nationTextBox;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnSave;
-        private DevExpress.XtraEditors.DateEdit dateOfBirth;
+        public DevExpress.XtraEditors.DateEdit dateOfBirth;
     }
 }

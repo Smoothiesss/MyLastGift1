@@ -384,7 +384,7 @@ alter table CONSUME
 go
 
 
-alter table NOTE
+alter table PREPAID
    add constraint FK_NOTE_HAS_2_BOOKING foreign key (BOOKINGID,BOOKINGTYPEID)
       references BOOKING (BOOKINGID,BOOKINGTYPEID)
 go

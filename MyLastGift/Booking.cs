@@ -198,7 +198,7 @@ namespace MyLastGift
 
         private void btnBook_Click(object sender, EventArgs e)
         {
-            /*
+            
             bookingInformation1.bookID.ResetText();
             bookingInformation1.roomTypeComboBox.ResetText();
             bookingInformation1.ResetText();
@@ -208,7 +208,7 @@ namespace MyLastGift
             bookingInformation1.toDayLabel.ResetText();
             bookingInformation1.priceLabel.ResetText();
             bookingInformation1.daysLabel.ResetText();
-            */
+            
             newBooking1.Nv = nv;
             newBooking1.Visible = true;
             
@@ -252,7 +252,7 @@ namespace MyLastGift
                 edit = editGuestInfo1;
                 edit.guestNameTextBox.Text = guestName;
                 edit.guestIdTextBox.Text = guestID;
-                edit.bookingTypeComboBox.Text = bookType;
+                edit.dateOfBirth.Text = g.DOB.ToString();
                 edit.nationTextBox.Text = g.Nationality;
 
                 BookingInformation bookInfo = new BookingInformation();
@@ -317,6 +317,10 @@ namespace MyLastGift
             extra1.calculate4.textBox1.Text = c.ExtraBed.ToString();
             extra1.calculate5.textBox1.Text = c.Snack.ToString();
         }
-        
+
+        private void btnLoad_Click(object sender, EventArgs e)
+        {
+            LoadGrid();
+        }
     }
 }

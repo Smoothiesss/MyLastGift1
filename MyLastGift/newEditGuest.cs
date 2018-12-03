@@ -40,8 +40,9 @@ namespace MyLastGift
         private void btnSave_Click(object sender, EventArgs e)
         {
             string name = guestNameTextBox.Text;
-            string id = textBox1.Text;
-            string booking;
+            string id = guestIDTextBox.Text;
+            string dob = dateOfBirth.Text;
+            string nation = nationTextBox.Text;
         }
     }
 }
