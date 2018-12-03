@@ -50,12 +50,9 @@ namespace MyLastGift
 
         private void btnBooking_Click(object sender, EventArgs e)
         {
-
             SidePanel.Width = btnBooking.Width;
             SidePanel.Left = btnBooking.Left;
             booking1.BringToFront();
-            
-
         }
 
         private void btnSchedule_Click(object sender, EventArgs e)
@@ -71,11 +68,12 @@ namespace MyLastGift
         {
             SidePanel.Width = btnReport.Width;
             SidePanel.Left = btnReport.Left;
-            reportTab1.BringToFront();
+            admin1.BringToFront();
         }
 
         private void Form3_Load(object sender, EventArgs e)
         {
+
         }
     }
 }

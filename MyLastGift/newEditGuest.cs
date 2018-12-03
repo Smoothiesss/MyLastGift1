@@ -41,7 +41,7 @@ namespace MyLastGift
         {
             string name = guestNameTextBox.Text;
             string id = textBox1.Text;
-            string booking
+            string booking;
         }
     }
 }

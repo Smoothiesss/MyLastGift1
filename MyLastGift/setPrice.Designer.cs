@@ -29,60 +29,76 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.ListViewItem listViewItem6 = new System.Windows.Forms.ListViewItem(new string[] {
-            "Standard"}, 0, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
-            System.Windows.Forms.ListViewItem listViewItem7 = new System.Windows.Forms.ListViewItem(new string[] {
-            "Superior"}, 1, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
-            System.Windows.Forms.ListViewItem listViewItem8 = new System.Windows.Forms.ListViewItem(new string[] {
-            "Premium"}, 2, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
-            System.Windows.Forms.ListViewItem listViewItem9 = new System.Windows.Forms.ListViewItem(new string[] {
-            "Family Deluxe"}, 3, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
-            System.Windows.Forms.ListViewItem listViewItem10 = new System.Windows.Forms.ListViewItem(new string[] {
-            "Family Suite"}, 4, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
+            System.Windows.Forms.ListViewItem listViewItem1 = new System.Windows.Forms.ListViewItem(new string[] {
+            "Standard",
+            "100000"}, 0, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
+            System.Windows.Forms.ListViewItem listViewItem2 = new System.Windows.Forms.ListViewItem(new string[] {
+            "Superior",
+            "150000"}, 1, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
+            System.Windows.Forms.ListViewItem listViewItem3 = new System.Windows.Forms.ListViewItem(new string[] {
+            "Premium",
+            "200000"}, 2, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
+            System.Windows.Forms.ListViewItem listViewItem4 = new System.Windows.Forms.ListViewItem(new string[] {
+            "Family Deluxe",
+            "250000"}, 3, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
+            System.Windows.Forms.ListViewItem listViewItem5 = new System.Windows.Forms.ListViewItem(new string[] {
+            "Family Suite",
+            "300000"}, 4, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(setPrice));
-            this.panel1 = new System.Windows.Forms.Panel();
+            System.Windows.Forms.ListViewItem listViewItem6 = new System.Windows.Forms.ListViewItem(new string[] {
+            "Mì gói",
+            "5000"}, 0, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
+            System.Windows.Forms.ListViewItem listViewItem7 = new System.Windows.Forms.ListViewItem(new string[] {
+            "Coca",
+            "15000"}, 1, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
+            System.Windows.Forms.ListViewItem listViewItem8 = new System.Windows.Forms.ListViewItem(new string[] {
+            "Lavie",
+            "10000"}, 2, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
+            System.Windows.Forms.ListViewItem listViewItem9 = new System.Windows.Forms.ListViewItem(new string[] {
+            "Extra Bed",
+            "50000"}, 3, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
+            System.Windows.Forms.ListViewItem listViewItem10 = new System.Windows.Forms.ListViewItem(new string[] {
+            "Snack",
+            "15000"}, 4, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
             this.listView1 = new System.Windows.Forms.ListView();
             this.largeImage = new System.Windows.Forms.ImageList(this.components);
-            this.materialDivider5 = new MaterialSkin.Controls.MaterialDivider();
-            this.priceLabel = new System.Windows.Forms.Label();
-            this.priceTextBox = new System.Windows.Forms.TextBox();
-            this.materialDivider1 = new MaterialSkin.Controls.MaterialDivider();
-            this.newPriceLabel = new System.Windows.Forms.Label();
-            this.newPriceTextBox = new System.Windows.Forms.TextBox();
-            this.btnAdd = new System.Windows.Forms.Button();
+            this.smallImage = new System.Windows.Forms.ImageList(this.components);
+            this.columnRoom = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnPrice = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.btnUpdate = new System.Windows.Forms.Button();
+            this.btnCancel = new System.Windows.Forms.Button();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.listView2 = new System.Windows.Forms.ListView();
+            this.extraImageList = new System.Windows.Forms.ImageList(this.components);
+            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // panel1
-            // 
-            this.panel1.Controls.Add(this.btnAdd);
-            this.panel1.Controls.Add(this.materialDivider1);
-            this.panel1.Controls.Add(this.newPriceLabel);
-            this.panel1.Controls.Add(this.newPriceTextBox);
-            this.panel1.Controls.Add(this.materialDivider5);
-            this.panel1.Controls.Add(this.priceLabel);
-            this.panel1.Controls.Add(this.priceTextBox);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel1.Location = new System.Drawing.Point(0, 575);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1235, 300);
-            this.panel1.TabIndex = 0;
-            // 
             // listView1
             // 
-            this.listView1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.listView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.columnRoom,
+            this.columnPrice});
+            this.listView1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.listView1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.listView1.HideSelection = false;
             this.listView1.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
-            listViewItem6,
-            listViewItem7,
-            listViewItem8,
-            listViewItem9,
-            listViewItem10});
+            listViewItem1,
+            listViewItem2,
+            listViewItem3,
+            listViewItem4,
+            listViewItem5});
             this.listView1.LargeImageList = this.largeImage;
             this.listView1.Location = new System.Drawing.Point(0, 0);
+            this.listView1.Margin = new System.Windows.Forms.Padding(3, 5, 10, 5);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(1235, 575);
+            this.listView1.Size = new System.Drawing.Size(817, 752);
+            this.listView1.SmallImageList = this.smallImage;
             this.listView1.TabIndex = 1;
             this.listView1.UseCompatibleStateImageBehavior = false;
+            this.listView1.View = System.Windows.Forms.View.Details;
             // 
             // largeImage
             // 
@@ -94,101 +110,133 @@
             this.largeImage.Images.SetKeyName(3, "famDeluxe.PNG");
             this.largeImage.Images.SetKeyName(4, "famSuite.PNG");
             // 
-            // materialDivider5
+            // smallImage
             // 
-            this.materialDivider5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.materialDivider5.Depth = 0;
-            this.materialDivider5.Location = new System.Drawing.Point(117, 75);
-            this.materialDivider5.MouseState = MaterialSkin.MouseState.HOVER;
-            this.materialDivider5.Name = "materialDivider5";
-            this.materialDivider5.Size = new System.Drawing.Size(300, 2);
-            this.materialDivider5.TabIndex = 11;
-            this.materialDivider5.Text = "materialDivider5";
+            this.smallImage.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("smallImage.ImageStream")));
+            this.smallImage.TransparentColor = System.Drawing.Color.Transparent;
+            this.smallImage.Images.SetKeyName(0, "standardPNG.PNG");
+            this.smallImage.Images.SetKeyName(1, "superior.PNG");
+            this.smallImage.Images.SetKeyName(2, "premium.PNG");
+            this.smallImage.Images.SetKeyName(3, "famDeluxe.PNG");
+            this.smallImage.Images.SetKeyName(4, "famSuite.PNG");
             // 
-            // priceLabel
+            // columnRoom
             // 
-            this.priceLabel.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.priceLabel.Location = new System.Drawing.Point(12, 49);
-            this.priceLabel.Name = "priceLabel";
-            this.priceLabel.Size = new System.Drawing.Size(99, 23);
-            this.priceLabel.TabIndex = 10;
-            this.priceLabel.Text = "Price: ";
+            this.columnRoom.Text = "Room Type";
+            this.columnRoom.Width = 350;
             // 
-            // priceTextBox
+            // columnPrice
             // 
-            this.priceTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.priceTextBox.Location = new System.Drawing.Point(117, 54);
-            this.priceTextBox.Name = "priceTextBox";
-            this.priceTextBox.Size = new System.Drawing.Size(300, 15);
-            this.priceTextBox.TabIndex = 9;
+            this.columnPrice.Text = "Price";
+            this.columnPrice.Width = 150;
             // 
-            // materialDivider1
+            // btnUpdate
             // 
-            this.materialDivider1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.materialDivider1.Depth = 0;
-            this.materialDivider1.Location = new System.Drawing.Point(117, 143);
-            this.materialDivider1.MouseState = MaterialSkin.MouseState.HOVER;
-            this.materialDivider1.Name = "materialDivider1";
-            this.materialDivider1.Size = new System.Drawing.Size(300, 2);
-            this.materialDivider1.TabIndex = 14;
-            this.materialDivider1.Text = "materialDivider1";
+            this.btnUpdate.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(166)))), ((int)(((byte)(128)))));
+            this.btnUpdate.FlatAppearance.BorderSize = 0;
+            this.btnUpdate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnUpdate.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnUpdate.Location = new System.Drawing.Point(404, 66);
+            this.btnUpdate.Name = "btnUpdate";
+            this.btnUpdate.Size = new System.Drawing.Size(130, 38);
+            this.btnUpdate.TabIndex = 19;
+            this.btnUpdate.Text = "Update";
+            this.btnUpdate.UseVisualStyleBackColor = false;
             // 
-            // newPriceLabel
+            // btnCancel
             // 
-            this.newPriceLabel.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.newPriceLabel.Location = new System.Drawing.Point(12, 117);
-            this.newPriceLabel.Name = "newPriceLabel";
-            this.newPriceLabel.Size = new System.Drawing.Size(99, 23);
-            this.newPriceLabel.TabIndex = 13;
-            this.newPriceLabel.Text = "New Price:";
+            this.btnCancel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(166)))), ((int)(((byte)(128)))));
+            this.btnCancel.FlatAppearance.BorderSize = 0;
+            this.btnCancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCancel.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnCancel.Location = new System.Drawing.Point(715, 66);
+            this.btnCancel.Name = "btnCancel";
+            this.btnCancel.Size = new System.Drawing.Size(130, 38);
+            this.btnCancel.TabIndex = 19;
+            this.btnCancel.Text = "Cancel";
+            this.btnCancel.UseVisualStyleBackColor = false;
             // 
-            // newPriceTextBox
+            // panel1
             // 
-            this.newPriceTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.newPriceTextBox.Location = new System.Drawing.Point(117, 122);
-            this.newPriceTextBox.Name = "newPriceTextBox";
-            this.newPriceTextBox.Size = new System.Drawing.Size(300, 15);
-            this.newPriceTextBox.TabIndex = 12;
+            this.panel1.Controls.Add(this.btnCancel);
+            this.panel1.Controls.Add(this.btnUpdate);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panel1.Location = new System.Drawing.Point(0, 752);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(1235, 123);
+            this.panel1.TabIndex = 0;
             // 
-            // btnAdd
+            // listView2
             // 
-            this.btnAdd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(166)))), ((int)(((byte)(128)))));
-            this.btnAdd.FlatAppearance.BorderSize = 0;
-            this.btnAdd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAdd.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.btnAdd.Location = new System.Drawing.Point(117, 228);
-            this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(167, 38);
-            this.btnAdd.TabIndex = 19;
-            this.btnAdd.Text = "Add";
-            this.btnAdd.UseVisualStyleBackColor = false;
+            this.listView2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.listView2.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.columnHeader1,
+            this.columnHeader2});
+            this.listView2.Dock = System.Windows.Forms.DockStyle.Left;
+            this.listView2.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.listView2.HideSelection = false;
+            this.listView2.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
+            listViewItem6,
+            listViewItem7,
+            listViewItem8,
+            listViewItem9,
+            listViewItem10});
+            this.listView2.Location = new System.Drawing.Point(817, 0);
+            this.listView2.Name = "listView2";
+            this.listView2.Scrollable = false;
+            this.listView2.Size = new System.Drawing.Size(620, 752);
+            this.listView2.SmallImageList = this.extraImageList;
+            this.listView2.TabIndex = 2;
+            this.listView2.UseCompatibleStateImageBehavior = false;
+            this.listView2.View = System.Windows.Forms.View.Details;
+            // 
+            // extraImageList
+            // 
+            this.extraImageList.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("extraImageList.ImageStream")));
+            this.extraImageList.TransparentColor = System.Drawing.Color.Transparent;
+            this.extraImageList.Images.SetKeyName(0, "mi-chua-cay-thai.jpg");
+            this.extraImageList.Images.SetKeyName(1, "coca.jpg");
+            this.extraImageList.Images.SetKeyName(2, "lavie 1_5_1.jpg");
+            this.extraImageList.Images.SetKeyName(3, "bed.jpeg");
+            this.extraImageList.Images.SetKeyName(4, "snack.jpg");
+            // 
+            // columnHeader1
+            // 
+            this.columnHeader1.Text = "Extra";
+            this.columnHeader1.Width = 350;
+            // 
+            // columnHeader2
+            // 
+            this.columnHeader2.Text = "Price";
+            this.columnHeader2.Width = 250;
             // 
             // setPrice
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
+            this.Controls.Add(this.listView2);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.panel1);
             this.Name = "setPrice";
             this.Size = new System.Drawing.Size(1235, 875);
             this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.ImageList largeImage;
-        private MaterialSkin.Controls.MaterialDivider materialDivider1;
-        private System.Windows.Forms.Label newPriceLabel;
-        private System.Windows.Forms.TextBox newPriceTextBox;
-        private MaterialSkin.Controls.MaterialDivider materialDivider5;
-        private System.Windows.Forms.Label priceLabel;
-        private System.Windows.Forms.TextBox priceTextBox;
-        private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.ImageList smallImage;
+        private System.Windows.Forms.ColumnHeader columnRoom;
+        private System.Windows.Forms.ColumnHeader columnPrice;
+        private System.Windows.Forms.Button btnUpdate;
+        private System.Windows.Forms.Button btnCancel;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.ListView listView2;
+        private System.Windows.Forms.ImageList extraImageList;
+        private System.Windows.Forms.ColumnHeader columnHeader1;
+        private System.Windows.Forms.ColumnHeader columnHeader2;
     }
 }

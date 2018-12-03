@@ -32,7 +32,6 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.button6 = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.reportTab1 = new MyLastGift.reportTab();
             this.houseBookingTab1 = new MyLastGift.HouseBookingTab();
             this.scheduleTab1 = new MyLastGift.ScheduleTab();
             this.booking1 = new MyLastGift.Booking();
@@ -44,6 +43,7 @@
             this.btnSchedule = new System.Windows.Forms.Button();
             this.btnBooking = new System.Windows.Forms.Button();
             this.btnOverview = new System.Windows.Forms.Button();
+            this.admin1 = new MyLastGift.Admin();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -79,7 +79,7 @@
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.reportTab1);
+            this.panel1.Controls.Add(this.admin1);
             this.panel1.Controls.Add(this.houseBookingTab1);
             this.panel1.Controls.Add(this.scheduleTab1);
             this.panel1.Controls.Add(this.booking1);
@@ -90,14 +90,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1532, 968);
             this.panel1.TabIndex = 3;
-            // 
-            // reportTab1
-            // 
-            this.reportTab1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.reportTab1.Location = new System.Drawing.Point(0, 55);
-            this.reportTab1.Name = "reportTab1";
-            this.reportTab1.Size = new System.Drawing.Size(1532, 913);
-            this.reportTab1.TabIndex = 8;
             // 
             // houseBookingTab1
             // 
@@ -180,7 +172,7 @@
             this.btnReport.Name = "btnReport";
             this.btnReport.Size = new System.Drawing.Size(181, 54);
             this.btnReport.TabIndex = 0;
-            this.btnReport.Text = "REPORT";
+            this.btnReport.Text = "ADMIN";
             this.btnReport.UseVisualStyleBackColor = false;
             this.btnReport.Click += new System.EventHandler(this.btnReport_Click);
             // 
@@ -240,6 +232,14 @@
             this.btnOverview.UseVisualStyleBackColor = false;
             this.btnOverview.Click += new System.EventHandler(this.btnOverview_Click);
             // 
+            // admin1
+            // 
+            this.admin1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.admin1.Location = new System.Drawing.Point(0, 55);
+            this.admin1.Name = "admin1";
+            this.admin1.Size = new System.Drawing.Size(1532, 913);
+            this.admin1.TabIndex = 8;
+            // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -275,6 +275,6 @@
         private Booking booking1;
         private ScheduleTab scheduleTab1;
         private HouseBookingTab houseBookingTab1;
-        private reportTab reportTab1;
+        private Admin admin1;
     }
 }
