@@ -33,7 +33,6 @@
             this.btnClose = new System.Windows.Forms.Button();
             this.guestInfoLabel = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.bookingTypeComboBox = new DevExpress.XtraEditors.ComboBoxEdit();
             this.materialDivider4 = new MaterialSkin.Controls.MaterialDivider();
             this.materialDivider3 = new MaterialSkin.Controls.MaterialDivider();
             this.materialDivider2 = new MaterialSkin.Controls.MaterialDivider();
@@ -46,9 +45,11 @@
             this.label2 = new System.Windows.Forms.Label();
             this.nameLabel = new System.Windows.Forms.Label();
             this.btnSave = new System.Windows.Forms.Button();
+            this.dateOfBirth = new DevExpress.XtraEditors.DateEdit();
             this.headerPanel.SuspendLayout();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.bookingTypeComboBox.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateOfBirth.Properties.CalendarTimeProperties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateOfBirth.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // headerPanel
@@ -88,7 +89,7 @@
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.bookingTypeComboBox);
+            this.panel1.Controls.Add(this.dateOfBirth);
             this.panel1.Controls.Add(this.materialDivider4);
             this.panel1.Controls.Add(this.materialDivider3);
             this.panel1.Controls.Add(this.materialDivider2);
@@ -105,20 +106,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(380, 509);
             this.panel1.TabIndex = 1;
-            // 
-            // bookingTypeComboBox
-            // 
-            this.bookingTypeComboBox.Location = new System.Drawing.Point(9, 193);
-            this.bookingTypeComboBox.Name = "bookingTypeComboBox";
-            this.bookingTypeComboBox.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
-            this.bookingTypeComboBox.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.bookingTypeComboBox.Properties.Items.AddRange(new object[] {
-            "Agoda",
-            "Booking.com",
-            "Free"});
-            this.bookingTypeComboBox.Size = new System.Drawing.Size(370, 20);
-            this.bookingTypeComboBox.TabIndex = 4;
             // 
             // materialDivider4
             // 
@@ -207,7 +194,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(290, 49);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Booking Type:";
+            this.label1.Text = "Date of Birth:";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // label2
@@ -244,6 +231,19 @@
             this.btnSave.Text = "SAVE";
             this.btnSave.UseVisualStyleBackColor = false;
             // 
+            // dateOfBirth
+            // 
+            this.dateOfBirth.EditValue = null;
+            this.dateOfBirth.Location = new System.Drawing.Point(9, 193);
+            this.dateOfBirth.Name = "dateOfBirth";
+            this.dateOfBirth.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.dateOfBirth.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.dateOfBirth.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.dateOfBirth.Size = new System.Drawing.Size(365, 20);
+            this.dateOfBirth.TabIndex = 4;
+            // 
             // editGuestInfo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -257,7 +257,8 @@
             this.headerPanel.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.bookingTypeComboBox.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateOfBirth.Properties.CalendarTimeProperties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateOfBirth.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -280,6 +281,6 @@
         public System.Windows.Forms.TextBox guestNameTextBox;
         public System.Windows.Forms.TextBox nationTextBox;
         public System.Windows.Forms.TextBox guestIdTextBox;
-        public DevExpress.XtraEditors.ComboBoxEdit bookingTypeComboBox;
+        private DevExpress.XtraEditors.DateEdit dateOfBirth;
     }
 }

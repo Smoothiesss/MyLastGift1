@@ -41,8 +41,8 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.idLabel = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.dateOfBirth = new DevExpress.XtraEditors.DateEdit();
             this.materialDivider3 = new MaterialSkin.Controls.MaterialDivider();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
             this.materialDivider4 = new MaterialSkin.Controls.MaterialDivider();
@@ -53,6 +53,8 @@
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dateOfBirth.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateOfBirth.Properties.CalendarTimeProperties)).BeginInit();
             this.panel4.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -192,8 +194,8 @@
             // 
             // panel3
             // 
+            this.panel3.Controls.Add(this.dateOfBirth);
             this.panel3.Controls.Add(this.materialDivider3);
-            this.panel3.Controls.Add(this.textBox2);
             this.panel3.Controls.Add(this.label2);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel3.Location = new System.Drawing.Point(0, 171);
@@ -201,6 +203,25 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(285, 65);
             this.panel3.TabIndex = 4;
+            // 
+            // dateOfBirth
+            // 
+            this.dateOfBirth.Location = new System.Drawing.Point(3, 38);
+            this.dateOfBirth.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dateOfBirth.Name = "dateOfBirth";
+            // 
+            // 
+            // 
+            this.dateOfBirth.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.dateOfBirth.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            // 
+            // 
+            // 
+            this.dateOfBirth.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.dateOfBirth.Size = new System.Drawing.Size(276, 18);
+            this.dateOfBirth.TabIndex = 7;
             // 
             // materialDivider3
             // 
@@ -214,16 +235,6 @@
             this.materialDivider3.TabIndex = 6;
             this.materialDivider3.Text = "materialDivider3";
             // 
-            // textBox2
-            // 
-            this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox2.Dock = System.Windows.Forms.DockStyle.Right;
-            this.textBox2.Location = new System.Drawing.Point(3, 41);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(282, 13);
-            this.textBox2.TabIndex = 5;
-            // 
             // label2
             // 
             this.label2.BackColor = System.Drawing.Color.White;
@@ -234,7 +245,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(285, 41);
             this.label2.TabIndex = 4;
-            this.label2.Text = "Booking Type:";
+            this.label2.Text = "Date of Birth:";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // panel4
@@ -318,7 +329,8 @@
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.panel3.ResumeLayout(false);
-            this.panel3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dateOfBirth.Properties.CalendarTimeProperties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateOfBirth.Properties)).EndInit();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
             this.ResumeLayout(false);
@@ -340,12 +352,12 @@
         private System.Windows.Forms.Label idLabel;
         private System.Windows.Forms.Panel panel3;
         private MaterialSkin.Controls.MaterialDivider materialDivider3;
-        public System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Panel panel4;
         private MaterialSkin.Controls.MaterialDivider materialDivider4;
         public System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnSave;
+        private DevExpress.XtraEditors.DateEdit dateOfBirth;
     }
 }

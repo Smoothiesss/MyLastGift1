@@ -23,7 +23,6 @@ namespace MyLastGift
         {
             setGuestID(guestID);
             setGuestName(guestName);
-            setBookingTypeID(bookingTypeID);
             setGuestNation(nation);
            
         }
@@ -58,10 +57,6 @@ namespace MyLastGift
         }
 
 
-        public void setBookingTypeID(String bookingTypeID)
-        {
-            this.bookingTypeComboBox.Text = bookingTypeID;
-        }
 
         public void setGuestNation(String nation)
         {

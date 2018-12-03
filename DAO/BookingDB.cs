@@ -203,5 +203,33 @@ where checkin <= '"+ dates +"' and CHECKOUT >= '"+ dates+"'";
 
             return dt;
         }
+
+        public DataTable getStatusFromDate(string id, DateTime dIn, DateTime dOut)
+        {
+            string stringDin = dIn.ToString("M/d/yyyy HH:mm:ss");
+            string stringDout = dOut.ToString("M/d/yyyy HH:mm:ss");
+            //creat sql 
+            String sql = @"select * from booking 
+            where ROOMID = '"+id+@"' and 
+            ((CHECKIN <= '"+stringDin + @"' AND CHECKOUT >= '" + stringDin + @"' ) 
+           OR (CHECKIN < '" + stringDout + @"' AND CHECKOUT >= '" + stringDout + @"' ) 
+           OR ('" + stringDin + @"' <= CHECKIN AND '" + stringDout + @"' >= CHECKIN))";
+            // make connection to database
+            SqlConnection conn = dp.getConnection();
+
+            //Make sql adapeter
+            da = new SqlDataAdapter(sql, conn);
+
+            //open connect
+            conn.Open();
+
+            //get dataTable
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+
+            conn.Close();
+
+            return dt;
+        }
     }
 }

@@ -41,7 +41,10 @@ namespace MyLastGift
         {
             string name = guestNameTextBox.Text;
             string id = textBox1.Text;
-            string booking;
+            string nation = textBox3.Text;
+            DateTime dt = dateOfBirth.DateTime;
+
+
         }
     }
 }

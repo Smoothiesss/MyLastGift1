@@ -1379,4 +1379,3 @@ C:\Users\ngquo\Desktop\cnpm\MyLastGift1\MyLastGift\obj\Debug\ja\MyLastGift.resou
 C:\Users\ngquo\Desktop\cnpm\MyLastGift1\MyLastGift\obj\Debug\ru\MyLastGift.resources.dll
 C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.setPrice.resources
 C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.UserManagement.resources
-C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\MyLastGift\obj\Debug\MyLastGift.exe.licenses

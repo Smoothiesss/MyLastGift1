@@ -160,13 +160,18 @@ namespace MyLastGift
             {
                 return;
             }
-
+            BookingBUS bBUS = new BookingBUS();
             string roomType = roomTypeComboBox.Text;
             string roomID = roomComboBox.Text;
             string bookingType = bookingTypeCombobox.Text;
             DateTime dateIn = dateCheckin.DateTime;
             DateTime dateout = dateCheckout.DateTime;
-            Console.WriteLine(roomID);
+            if (bBUS.checkAvaiable(roomID, dateIn, dateout) == false)
+            {
+                MessageBox.Show("ADD BOOKING SUCCESS FAILED!! ROOM BOOKED", "CONFIRMATION",
+      MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
             bool breakfast = false;
             if (breakfastCheckbox.Checked == true)
             {
@@ -187,7 +192,7 @@ namespace MyLastGift
             }
             DTO.Booking b = new DTO.Booking(0, roomID, g.InfoID, type, nv.NhanVienID, DateTime.Now, dateIn, dateout, breakfast);
 
-            BookingBUS bBUS = new BookingBUS();
+
             if (bBUS.InsertBooking(b))
             {
                 MessageBox.Show("ADD BOOKING SUCCESS FULL", "CONFIRMATION",

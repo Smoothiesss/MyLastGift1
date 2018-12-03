@@ -32,6 +32,14 @@ namespace BUS
                 return false;
         }
 
+        public bool checkAvaiable(string roomID, DateTime din, DateTime dout)
+        {
+            DataTable dt = bDB.getStatusFromDate(roomID, din, dout);
+            if (dt.Rows.Count != 0)
+                return false;
+            return true; 
+        }
+
         public Booking getBookingByID(string ID, string typeID)
         {
             DataTable dt = bDB.getbyID(ID, typeID);
