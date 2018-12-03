@@ -27,5 +27,10 @@ namespace MyLastGift
         {
             reportTab1.BringToFront();
         }
+
+        private void btnPrice_Click(object sender, EventArgs e)
+        {
+            setPrice1.BringToFront();
+        }
     }
 }

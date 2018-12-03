@@ -626,10 +626,10 @@
             this.panel13.Controls.Add(this.button1);
             this.panel13.Controls.Add(this.btnPrepay);
             this.panel13.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel13.Location = new System.Drawing.Point(0, 660);
+            this.panel13.Location = new System.Drawing.Point(0, 695);
             this.panel13.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel13.Name = "panel13";
-            this.panel13.Size = new System.Drawing.Size(380, 215);
+            this.panel13.Size = new System.Drawing.Size(380, 180);
             this.panel13.TabIndex = 15;
             // 
             // pricePanel
@@ -671,7 +671,7 @@
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.button1.Location = new System.Drawing.Point(7, 187);
+            this.button1.Location = new System.Drawing.Point(4, 112);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(167, 38);
@@ -686,7 +686,7 @@
             this.btnPrepay.FlatAppearance.BorderSize = 0;
             this.btnPrepay.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPrepay.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.btnPrepay.Location = new System.Drawing.Point(199, 187);
+            this.btnPrepay.Location = new System.Drawing.Point(198, 112);
             this.btnPrepay.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnPrepay.Name = "btnPrepay";
             this.btnPrepay.Size = new System.Drawing.Size(167, 38);
