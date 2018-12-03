@@ -262,10 +262,14 @@ go
 /*==============================================================*/
 create table CONSUME (
    BOOKINGID            int                  not null,
-   BOOKINGTYPEID			char(5)				not null,
-   ITEMID               int                  not null,
-   NUMBER               int                  null,
-   constraint PK_CONSUME primary key nonclustered (BOOKINGID,bookingTYpeID, ITEMID)
+   BOOKINGTYPEID		char(5)				 not null,
+   surchare				int					null,
+   cocacola				int					null,
+   lavie				int					null,
+   snack				int					null,
+   instantNoodle				int					null,
+   extrabed				int					null,
+   constraint PK_CONSUME primary key nonclustered (BOOKINGID,bookingTYpeID)
 )
 go
 
@@ -280,21 +284,6 @@ go
 /*==============================================================*/
 /* Index: CONSUME_FK2                                           */
 /*==============================================================*/
-create index CONSUME_FK2 on CONSUME (
-ITEMID ASC
-)
-go
-
-/*==============================================================*/
-/* Table: EXTRAFEE                                              */
-/*==============================================================*/
-create table EXTRAFEE (
-   ITEMID               int                  not null,
-   ITEMNAME             char(20)             null,
-   PRICE                int                  null,
-   constraint PK_EXTRAFEE primary key nonclustered (ITEMID)
-)
-go
 
 /*==============================================================*/
 /* Table: GUEST                                                 */
@@ -323,20 +312,21 @@ create table NHANVIEN (
 go
 
 /*==============================================================*/
-/* Table: NOTE                                                  */
+/* Table: prepaid                                                  */
 /*==============================================================*/
-create table NOTE (
+create table prepaid (
    BOOKINGID            int                  not null,
    BOOKINGTYPEID		char(5)				not null,
-   NOTEID               int                  null,
-   CONTEXT              varchar(8000)       null,
-   constraint PK_NOTE primary key (BOOKINGID,BOOKINGTYPEID)
+   AMOUNT               int                  null,
+   dateRecive			datetime				null,
+   NHANVIENID           INT					 NULL,
+   constraint PK_prepaid primary key (BOOKINGID,BOOKINGTYPEID)
 )
 go
 /*==============================================================*/
 /* Index: HAS_2_FK                                              */
 /*==============================================================*/
-create index HAS_2_FK on NOTE (
+create index HAS_2_FK on prepaid (
 BOOKINGID ASC
 )
 go
@@ -393,10 +383,6 @@ alter table CONSUME
       references BOOKING (BOOKINGID,BOOKINGTYPEID)
 go
 
-alter table CONSUME
-   add constraint FK_CONSUME_CONSUME_EXTRAFEE foreign key (ITEMID)
-      references EXTRAFEE (ITEMID)
-go
 
 alter table NOTE
    add constraint FK_NOTE_HAS_2_BOOKING foreign key (BOOKINGID,BOOKINGTYPEID)
@@ -458,6 +444,29 @@ values
 ,(2,'103','00000001','001',001,'11/23/2018','11/24/2018 14:00:00','11/26/2018 12:00:00',0)
 ,(1,'103','00000001','001',001,'11/23/2018','11/23/2018 14:00:00','11/24/2018 12:00:00',0)
 
+
+insert into CONSUME
+values
+(8,'001',0,0,0,0,0,0)
+,(7,'001',1,1,1,1,1,1)
+,(6,'001',0,0,0,0,0,0)
+,(5,'001',0,0,0,0,0,0)
+,(4,'001',0,0,0,0,0,0)
+,(3,'001',0,0,0,0,0,0)
+,(2,'001',0,0,0,0,0,0)
+,(1,'001',0,0,0,0,0,0)
+
+insert into prepaid
+values
+(8,'001',0,null,0)
+,(7,'001',1000000,'11/27/2018',001)
+,(6,'001',0,null,0)
+,(5,'001',0,null,0)
+,(4,'001',0,null,0)
+,(3,'001',0,null,0)
+,(2,'001',0,null,0)
+,(1,'001',0,null,0)
+
 select IDinfo from booking
 	where checkin <= getdate() and CHECKOUT > getdate()
 
@@ -482,12 +491,5 @@ select * from ROOMTYPE where ROOMTYPEID = 'SUPERIOR'
 select * from Guest where IDINFO like 'unk%%'
 
 update GUEST set IDINFO = 'unk1',FullNAME = 'ga tai chanh' where idinfo = '000000002'
- select * from BOOKING
 
- select * from Guest
-
-select  bookingID,fullname , booking.RoomID ,ROOMTYPEID,Checkin,checkout,bookingTypeID 
-from (Booking left join GUEST on booking.idinfo = guest.idinfo) left join room on booking.ROOMID = ROOM.ROOMID
-where checkin <= '12/03/2018 13:38:42' and CHECKOUT >= '12/03/2018 13:38:42'
-
- select * from Guest where IDinfo in (select IDinfo from booking where checkin <= getdate() and CHECKOUT > getdate())
+select * from booking where BOOKINGID = 1 and BOOKINGTYPEID ='001'
