@@ -69,7 +69,7 @@ namespace DAO
             return true;
         }
 
-        public bool CheckLogin(string account, string pass)
+        public DataTable CheckLogin(string account, string pass)
         {
 
             //creat sql 
@@ -88,11 +88,7 @@ namespace DAO
             DataTable dt = new DataTable();
             da.Fill(dt);
             conn.Close();
-            if (dt.Rows.Count > 0)
-            {
-                return true;
-            }
-            else return false;
+            return dt;
         }
 
         public bool delete(NhanVien nv)

@@ -14,7 +14,7 @@ namespace DAO
         public DataProvider()
         {
             // connect = "Data Source=DESKTOP-KPSI5PK;Initial Catalog=QLKS;Integrated Security=True";
-            connect = "Data Source=DESKTOP-KPSI5PK;Initial Catalog=QLKS;Integrated Security=True";
+            connect = "Data Source=DESKTOP-APSODNG;Initial Catalog=QLKS;Integrated Security=True";
 
         }
 

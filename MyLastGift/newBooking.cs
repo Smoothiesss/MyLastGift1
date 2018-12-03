@@ -14,10 +14,26 @@ namespace MyLastGift
 {
     public partial class newBooking : UserControl
     {
+        NhanVien nv;
+
+        public NhanVien Nv
+        {
+            get
+            {
+                return nv;
+            }
+
+            set
+            {
+                nv = value;
+            }
+        }
+
         public newBooking()
         {
             InitializeComponent();
             dateCheckin.DateTime = DateTime.Now;
+            
             
         }
 
@@ -125,6 +141,7 @@ namespace MyLastGift
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
             string name = guestNameTextBox.Text;
             string nal = nationTB.Text;
             Guest g = new Guest("0", name, nal, DateTime.Now);
@@ -157,13 +174,16 @@ namespace MyLastGift
             {
 
             }
-            DTO.Booking b = new DTO.Booking(0, roomID, g.InfoID, type, 001, DateTime.Now, dateIn, dateout, breakfast);
+            DTO.Booking b = new DTO.Booking(0, roomID, g.InfoID, type, nv.NhanVienID, DateTime.Now, dateIn, dateout, breakfast);
 
             BookingBUS bBUS = new BookingBUS();
             Console.WriteLine(bBUS.InsertBooking(b));
 
         }
 
-        
+        private void newBooking_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

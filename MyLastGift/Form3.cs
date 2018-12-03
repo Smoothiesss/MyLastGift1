@@ -7,17 +7,36 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DTO;
 
 namespace MyLastGift
 {
     public partial class Form3 : Form
     {
+        NhanVien nv;
+
+        public NhanVien Nv
+        {
+            get
+            {
+                return nv;
+            }
+
+            set
+            {
+                nv = value;
+            }
+        }
+
         public Form3()
         {
             InitializeComponent();
             SidePanel.Width = btnOverview.Width;
             SidePanel.Left = btnOverview.Left;
             overview11.BringToFront();
+            overview11.Nv = nv;
+            booking1.Nv = nv;
+
         }
 
         private void btnOverview_Click(object sender, EventArgs e)
@@ -29,9 +48,12 @@ namespace MyLastGift
 
         private void btnBooking_Click(object sender, EventArgs e)
         {
+
             SidePanel.Width = btnBooking.Width;
             SidePanel.Left = btnBooking.Left;
             booking1.BringToFront();
+            
+
         }
 
         private void btnSchedule_Click(object sender, EventArgs e)
@@ -52,7 +74,6 @@ namespace MyLastGift
 
         private void Form3_Load(object sender, EventArgs e)
         {
-
         }
     }
 }

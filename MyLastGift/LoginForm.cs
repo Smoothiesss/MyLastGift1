@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using BUS;
+using DTO;
 
 using MaterialSkin.Animations;
 using MaterialSkin.Controls;
@@ -43,10 +44,13 @@ namespace MyLastGift
             string acc = textBox1.Text;
             string pass = textBox2.Text;
             Console.Write(acc + "  " + pass);
-            if (nvBus.checkLogin(acc,pass))
+            NhanVien nv = nvBus.checkLogin(acc, pass);
+            if (nv != null)
             {
                 Form3 f = new Form3();
                 this.Hide();
+
+                f.Nv = nv;
                 f.ShowDialog();
                 this.Show();
             }

@@ -16,6 +16,7 @@ namespace MyLastGift
     public partial class overview1 : UserControl
     {
         RoomBUS rbus;
+        NhanVien nv;
         bool visible = true;
         int reserve = 0;
         int occupied = 0;
@@ -49,6 +50,19 @@ namespace MyLastGift
                 ri = value;
             }
             
+        }
+
+        public NhanVien Nv
+        {
+            get
+            {
+                return nv;
+            }
+
+            set
+            {
+                nv = value;
+            }
         }
 
         public overview1()

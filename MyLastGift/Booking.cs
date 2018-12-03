@@ -17,14 +17,29 @@ namespace MyLastGift
 {
     public partial class Booking : UserControl
     {
-        
 
-        
+
+        NhanVien nv;
+
+        public NhanVien Nv
+        {
+            get
+            {
+                return nv;
+            }
+
+            set
+            {
+                nv = value;
+                newBooking1.Nv = nv;
+            }
+        }
 
         public Booking()
         {
             InitializeComponent();
             this.bookingInformation1.Visible = false;
+
             //LoadBooking();
             //LoadGuest();
             LoadGrid();
@@ -40,6 +55,7 @@ namespace MyLastGift
         }
         void LoadGrid()
         {
+            newBooking1.Nv = nv;
             BookingBUS b = new BookingBUS();
             DateTime d = DateTime.Now;
             DataTable dt = b.getBookingbyDate(d);
@@ -192,8 +208,10 @@ namespace MyLastGift
             bookingInformation1.priceLabel.ResetText();
             bookingInformation1.daysLabel.ResetText();
             */
+            newBooking1.Nv = nv;
             newBooking1.Visible = true;
             
+
         }
        
        
@@ -282,10 +300,6 @@ namespace MyLastGift
                 bookInfo.toDayLabel.Text = checkOut.ToString("dd.MM.yyyy");
                 bookInfo.priceLabel.Text = price.ToString();
 
-                newBooking newBook = new newBooking();
-                newBook = newBooking1;
-
-                newBook.priceLabel.Text = rt.Price.ToString();
 
             }
         }
