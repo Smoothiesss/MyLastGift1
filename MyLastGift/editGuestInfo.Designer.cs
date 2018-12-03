@@ -281,6 +281,6 @@
         public System.Windows.Forms.TextBox guestNameTextBox;
         public System.Windows.Forms.TextBox nationTextBox;
         public System.Windows.Forms.TextBox guestIdTextBox;
-        private DevExpress.XtraEditors.DateEdit dateOfBirth;
+        public DevExpress.XtraEditors.DateEdit dateOfBirth;
     }
 }

@@ -61,17 +61,17 @@
             "Snack",
             "15000"}, 4, System.Drawing.Color.Empty, System.Drawing.Color.Empty, new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163))));
             this.listView1 = new System.Windows.Forms.ListView();
-            this.largeImage = new System.Windows.Forms.ImageList(this.components);
-            this.smallImage = new System.Windows.Forms.ImageList(this.components);
             this.columnRoom = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnPrice = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.largeImage = new System.Windows.Forms.ImageList(this.components);
+            this.smallImage = new System.Windows.Forms.ImageList(this.components);
             this.btnUpdate = new System.Windows.Forms.Button();
             this.btnCancel = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.listView2 = new System.Windows.Forms.ListView();
-            this.extraImageList = new System.Windows.Forms.ImageList(this.components);
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.extraImageList = new System.Windows.Forms.ImageList(this.components);
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -99,6 +99,17 @@
             this.listView1.TabIndex = 1;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
+            this.listView1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.listView1_MouseDown);
+            // 
+            // columnRoom
+            // 
+            this.columnRoom.Text = "Room Type";
+            this.columnRoom.Width = 350;
+            // 
+            // columnPrice
+            // 
+            this.columnPrice.Text = "Price";
+            this.columnPrice.Width = 150;
             // 
             // largeImage
             // 
@@ -119,16 +130,6 @@
             this.smallImage.Images.SetKeyName(2, "premium.PNG");
             this.smallImage.Images.SetKeyName(3, "famDeluxe.PNG");
             this.smallImage.Images.SetKeyName(4, "famSuite.PNG");
-            // 
-            // columnRoom
-            // 
-            this.columnRoom.Text = "Room Type";
-            this.columnRoom.Width = 350;
-            // 
-            // columnPrice
-            // 
-            this.columnPrice.Text = "Price";
-            this.columnPrice.Width = 150;
             // 
             // btnUpdate
             // 
@@ -190,16 +191,6 @@
             this.listView2.UseCompatibleStateImageBehavior = false;
             this.listView2.View = System.Windows.Forms.View.Details;
             // 
-            // extraImageList
-            // 
-            this.extraImageList.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("extraImageList.ImageStream")));
-            this.extraImageList.TransparentColor = System.Drawing.Color.Transparent;
-            this.extraImageList.Images.SetKeyName(0, "mi-chua-cay-thai.jpg");
-            this.extraImageList.Images.SetKeyName(1, "coca.jpg");
-            this.extraImageList.Images.SetKeyName(2, "lavie 1_5_1.jpg");
-            this.extraImageList.Images.SetKeyName(3, "bed.jpeg");
-            this.extraImageList.Images.SetKeyName(4, "snack.jpg");
-            // 
             // columnHeader1
             // 
             this.columnHeader1.Text = "Extra";
@@ -209,6 +200,16 @@
             // 
             this.columnHeader2.Text = "Price";
             this.columnHeader2.Width = 250;
+            // 
+            // extraImageList
+            // 
+            this.extraImageList.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("extraImageList.ImageStream")));
+            this.extraImageList.TransparentColor = System.Drawing.Color.Transparent;
+            this.extraImageList.Images.SetKeyName(0, "mi-chua-cay-thai.jpg");
+            this.extraImageList.Images.SetKeyName(1, "coca.jpg");
+            this.extraImageList.Images.SetKeyName(2, "lavie 1_5_1.jpg");
+            this.extraImageList.Images.SetKeyName(3, "bed.jpeg");
+            this.extraImageList.Images.SetKeyName(4, "snack.jpg");
             // 
             // setPrice
             // 

@@ -385,7 +385,11 @@ go
 
 
 alter table PREPAID
+<<<<<<< HEAD
    add constraint FK_PREPAID_HAS_2_BOOKING foreign key (BOOKINGID,BOOKINGTYPEID)
+=======
+   add constraint FK_NOTE_HAS_2_BOOKING foreign key (BOOKINGID,BOOKINGTYPEID)
+>>>>>>> 6b3443cfbebd996f3a90df3ce20f0afb28028b09
       references BOOKING (BOOKINGID,BOOKINGTYPEID)
 go
 

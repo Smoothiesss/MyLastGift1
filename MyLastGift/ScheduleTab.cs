@@ -148,6 +148,7 @@ namespace MyLastGift
             edit = editGuestInfo1;
             edit.guestNameTextBox.Text = name;
             edit.guestIdTextBox.Text = guestID;
+            edit.dateOfBirth.Text = g.DOB.ToString();
             edit.nationTextBox.Text = g.Nationality;
 
             BookingInformation bookInfo = new BookingInformation();
