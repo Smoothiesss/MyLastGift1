@@ -25,7 +25,9 @@ namespace MyLastGift
 
             set
             {
+                
                 nv = value;
+                staffComboBox.Text = "abc";
             }
         }
 

@@ -15,6 +15,17 @@ namespace MyLastGift
         public Admin()
         {
             InitializeComponent();
+            userManagement1.BringToFront();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            userManagement1.BringToFront();
+        }
+
+        private void btnReport_Click(object sender, EventArgs e)
+        {
+            reportTab1.BringToFront();
         }
     }
 }

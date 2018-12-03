@@ -239,6 +239,18 @@
     <Compile Include="searchTextBox.Designer.cs">
       <DependentUpon>searchTextBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="setPrice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setPrice.Designer.cs">
+      <DependentUpon>setPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserManagement.Designer.cs">
+      <DependentUpon>UserManagement.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Admin.resx">
       <DependentUpon>Admin.cs</DependentUpon>
     </EmbeddedResource>
@@ -329,6 +341,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="searchTextBox.resx">
       <DependentUpon>searchTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setPrice.resx">
+      <DependentUpon>setPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserManagement.resx">
+      <DependentUpon>UserManagement.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="ClassDiagram1.cd" />
     <None Include="packages.config" />

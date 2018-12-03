@@ -23,3 +23,8 @@ C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\DTO\DTO\bin\Debug\DTO.pdb
 C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\DTO\DTO\obj\Debug\DTO.dll
 C:\Users\ZunNie\Desktop\CNPM\MyLastGift1\DTO\DTO\obj\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DTO\DTO\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DTO\DTO\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DTO\DTO\obj\Debug\DTO.dll
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DTO\DTO\obj\Debug\DTO.pdb

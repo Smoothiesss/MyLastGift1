@@ -61,26 +61,7 @@
             ((object)(7D))}, 2);
             DevExpress.XtraCharts.PieSeriesView pieSeriesView2 = new DevExpress.XtraCharts.PieSeriesView();
             DevExpress.XtraCharts.ChartTitle chartTitle3 = new DevExpress.XtraCharts.ChartTitle();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.materialDivider1 = new MaterialSkin.Controls.MaterialDivider();
-            this.dateNavigator1 = new MyLastGift.DateNavigator();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.currentStatus1 = new MyLastGift.currentStatus();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.gridControl1 = new DevExpress.XtraGrid.GridControl();
-            this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
-            this.colNHANVIENID = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.colTENNV = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.colSTARTDATE = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.colROLES = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.colACCOUNT = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.colPASSWORD = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.panel8 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
-            this.btnBook = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.chartControl3 = new DevExpress.XtraCharts.ChartControl();
@@ -88,14 +69,10 @@
             this.chartControl1 = new DevExpress.XtraCharts.ChartControl();
             this.panel9 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.panel5.SuspendLayout();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.currentStatus1 = new MyLastGift.currentStatus();
             this.panel1.SuspendLayout();
-            this.panel2.SuspendLayout();
-            this.panel6.SuspendLayout();
-            this.panel7.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
-            this.panel8.SuspendLayout();
             this.panel3.SuspendLayout();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chartControl3)).BeginInit();
@@ -110,37 +87,8 @@
             ((System.ComponentModel.ISupportInitialize)(series3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(pieSeriesView2)).BeginInit();
             this.panel9.SuspendLayout();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // panel5
-            // 
-            this.panel5.BackColor = System.Drawing.Color.White;
-            this.panel5.Controls.Add(this.materialDivider1);
-            this.panel5.Controls.Add(this.dateNavigator1);
-            this.panel5.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel5.Location = new System.Drawing.Point(0, 0);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(1550, 60);
-            this.panel5.TabIndex = 7;
-            // 
-            // materialDivider1
-            // 
-            this.materialDivider1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.materialDivider1.Depth = 0;
-            this.materialDivider1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.materialDivider1.Location = new System.Drawing.Point(0, 57);
-            this.materialDivider1.MouseState = MaterialSkin.MouseState.HOVER;
-            this.materialDivider1.Name = "materialDivider1";
-            this.materialDivider1.Size = new System.Drawing.Size(1550, 3);
-            this.materialDivider1.TabIndex = 1;
-            this.materialDivider1.Text = "materialDivider1";
-            // 
-            // dateNavigator1
-            // 
-            this.dateNavigator1.Location = new System.Drawing.Point(0, 0);
-            this.dateNavigator1.Name = "dateNavigator1";
-            this.dateNavigator1.Size = new System.Drawing.Size(360, 60);
-            this.dateNavigator1.TabIndex = 0;
             // 
             // panel1
             // 
@@ -151,163 +99,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1550, 382);
             this.panel1.TabIndex = 8;
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.panel6);
-            this.panel2.Controls.Add(this.currentStatus1);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(0, 60);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1550, 493);
-            this.panel2.TabIndex = 9;
-            // 
-            // currentStatus1
-            // 
-            this.currentStatus1.BackColor = System.Drawing.Color.White;
-            this.currentStatus1.Dock = System.Windows.Forms.DockStyle.Left;
-            this.currentStatus1.EnableAxisXScrolling = false;
-            this.currentStatus1.Location = new System.Drawing.Point(0, 0);
-            this.currentStatus1.Name = "currentStatus1";
-            this.currentStatus1.Size = new System.Drawing.Size(900, 493);
-            this.currentStatus1.TabIndex = 1;
-            // 
-            // panel6
-            // 
-            this.panel6.Controls.Add(this.panel7);
-            this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel6.Location = new System.Drawing.Point(900, 0);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(650, 493);
-            this.panel6.TabIndex = 2;
-            // 
-            // panel7
-            // 
-            this.panel7.BackColor = System.Drawing.Color.White;
-            this.panel7.Controls.Add(this.gridControl1);
-            this.panel7.Controls.Add(this.panel8);
-            this.panel7.Controls.Add(this.label2);
-            this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel7.Location = new System.Drawing.Point(0, 0);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(650, 493);
-            this.panel7.TabIndex = 1;
-            // 
-            // gridControl1
-            // 
-            this.gridControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gridControl1.Location = new System.Drawing.Point(0, 43);
-            this.gridControl1.MainView = this.gridView1;
-            this.gridControl1.Name = "gridControl1";
-            this.gridControl1.Size = new System.Drawing.Size(650, 400);
-            this.gridControl1.TabIndex = 8;
-            this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.gridView1});
-            // 
-            // gridView1
-            // 
-            this.gridView1.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
-            this.colNHANVIENID,
-            this.colTENNV,
-            this.colSTARTDATE,
-            this.colROLES,
-            this.colACCOUNT,
-            this.colPASSWORD});
-            this.gridView1.GridControl = this.gridControl1;
-            this.gridView1.Name = "gridView1";
-            // 
-            // colNHANVIENID
-            // 
-            this.colNHANVIENID.FieldName = "NHANVIENID";
-            this.colNHANVIENID.Name = "colNHANVIENID";
-            this.colNHANVIENID.Visible = true;
-            this.colNHANVIENID.VisibleIndex = 0;
-            // 
-            // colTENNV
-            // 
-            this.colTENNV.FieldName = "TENNV";
-            this.colTENNV.Name = "colTENNV";
-            this.colTENNV.Visible = true;
-            this.colTENNV.VisibleIndex = 1;
-            // 
-            // colSTARTDATE
-            // 
-            this.colSTARTDATE.FieldName = "STARTDATE";
-            this.colSTARTDATE.Name = "colSTARTDATE";
-            this.colSTARTDATE.Visible = true;
-            this.colSTARTDATE.VisibleIndex = 2;
-            // 
-            // colROLES
-            // 
-            this.colROLES.FieldName = "ROLES";
-            this.colROLES.Name = "colROLES";
-            this.colROLES.Visible = true;
-            this.colROLES.VisibleIndex = 3;
-            // 
-            // colACCOUNT
-            // 
-            this.colACCOUNT.FieldName = "ACCOUNT";
-            this.colACCOUNT.Name = "colACCOUNT";
-            this.colACCOUNT.Visible = true;
-            this.colACCOUNT.VisibleIndex = 4;
-            // 
-            // colPASSWORD
-            // 
-            this.colPASSWORD.FieldName = "PASSWORD";
-            this.colPASSWORD.Name = "colPASSWORD";
-            this.colPASSWORD.Visible = true;
-            this.colPASSWORD.VisibleIndex = 5;
-            // 
-            // panel8
-            // 
-            this.panel8.Controls.Add(this.button1);
-            this.panel8.Controls.Add(this.btnBook);
-            this.panel8.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel8.Location = new System.Drawing.Point(0, 443);
-            this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(650, 50);
-            this.panel8.TabIndex = 7;
-            // 
-            // button1
-            // 
-            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(166)))), ((int)(((byte)(128)))));
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.button1.Location = new System.Drawing.Point(418, 6);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(111, 38);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "Remove";
-            this.button1.UseVisualStyleBackColor = false;
-            // 
-            // btnBook
-            // 
-            this.btnBook.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnBook.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(166)))), ((int)(((byte)(128)))));
-            this.btnBook.FlatAppearance.BorderSize = 0;
-            this.btnBook.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnBook.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.btnBook.Location = new System.Drawing.Point(223, 6);
-            this.btnBook.Name = "btnBook";
-            this.btnBook.Size = new System.Drawing.Size(111, 38);
-            this.btnBook.TabIndex = 5;
-            this.btnBook.Text = "Add ";
-            this.btnBook.UseVisualStyleBackColor = false;
-            // 
-            // label2
-            // 
-            this.label2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label2.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.label2.Location = new System.Drawing.Point(0, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(650, 43);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "Employees";
-            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // panel3
             // 
@@ -456,23 +247,44 @@
             this.label1.Text = "Booking By: ";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.panel6);
+            this.panel2.Controls.Add(this.currentStatus1);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel2.Location = new System.Drawing.Point(0, 0);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(1550, 553);
+            this.panel2.TabIndex = 9;
+            // 
+            // panel6
+            // 
+            this.panel6.BackColor = System.Drawing.Color.White;
+            this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel6.Location = new System.Drawing.Point(900, 0);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(650, 553);
+            this.panel6.TabIndex = 2;
+            // 
+            // currentStatus1
+            // 
+            this.currentStatus1.BackColor = System.Drawing.Color.White;
+            this.currentStatus1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.currentStatus1.EnableAxisXScrolling = false;
+            this.currentStatus1.Location = new System.Drawing.Point(0, 0);
+            this.currentStatus1.Name = "currentStatus1";
+            this.currentStatus1.Size = new System.Drawing.Size(900, 553);
+            this.currentStatus1.TabIndex = 1;
+            // 
             // reportTab
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.panel5);
             this.Name = "reportTab";
             this.Size = new System.Drawing.Size(1550, 935);
-            this.panel5.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
-            this.panel2.ResumeLayout(false);
-            this.panel6.ResumeLayout(false);
-            this.panel7.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
-            this.panel8.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
             this.panel4.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(xyDiagram1)).EndInit();
@@ -487,30 +299,15 @@
             ((System.ComponentModel.ISupportInitialize)(series3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.chartControl1)).EndInit();
             this.panel9.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
 
         #endregion
-        private System.Windows.Forms.Panel panel5;
-        private MaterialSkin.Controls.MaterialDivider materialDivider1;
-        private DateNavigator dateNavigator1;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Panel panel6;
-        private System.Windows.Forms.Panel panel7;
-        private DevExpress.XtraGrid.GridControl gridControl1;
-        private DevExpress.XtraGrid.Views.Grid.GridView gridView1;
-        private DevExpress.XtraGrid.Columns.GridColumn colNHANVIENID;
-        private DevExpress.XtraGrid.Columns.GridColumn colTENNV;
-        private DevExpress.XtraGrid.Columns.GridColumn colSTARTDATE;
-        private DevExpress.XtraGrid.Columns.GridColumn colROLES;
-        private DevExpress.XtraGrid.Columns.GridColumn colACCOUNT;
-        private DevExpress.XtraGrid.Columns.GridColumn colPASSWORD;
-        private System.Windows.Forms.Panel panel8;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button btnBook;
-        private System.Windows.Forms.Label label2;
         private currentStatus currentStatus1;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel4;

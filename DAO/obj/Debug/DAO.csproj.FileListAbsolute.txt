@@ -40,3 +40,10 @@ C:\Users\ngquo\Desktop\MyLastGift1-master\DAO\bin\Debug\DTO.pdb
 C:\Users\ngquo\Desktop\MyLastGift1-master\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
 C:\Users\ngquo\Desktop\MyLastGift1-master\DAO\obj\Debug\DAO.dll
 C:\Users\ngquo\Desktop\MyLastGift1-master\DAO\obj\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DAO\bin\Debug\DAO.dll
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DAO\bin\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DAO\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DAO\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DAO\obj\Debug\DAO.dll
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\DAO\obj\Debug\DAO.pdb

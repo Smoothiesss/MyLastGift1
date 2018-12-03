@@ -56,3 +56,13 @@ C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\obj\Debug\BUS.csprojResolveAssembl
 C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\obj\Debug\BUS.csproj.ResolveComReference.cache
 C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\obj\Debug\BUS.dll
 C:\Users\ngquo\Desktop\MyLastGift1-master\BUS\obj\Debug\BUS.pdb
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\BUS\bin\Debug\BUS.dll
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\BUS\bin\Debug\BUS.pdb
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\BUS\bin\Debug\DAO.dll
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\BUS\bin\Debug\DTO.dll
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\BUS\bin\Debug\DAO.pdb
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\BUS\bin\Debug\DTO.pdb
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\BUS\obj\Debug\BUS.csproj.ResolveComReference.cache
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\BUS\obj\Debug\BUS.dll
+C:\Users\ngquo\Desktop\cnpm\MyLastGift1\BUS\obj\Debug\BUS.pdb
