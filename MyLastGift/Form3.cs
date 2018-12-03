@@ -28,13 +28,15 @@ namespace MyLastGift
             }
         }
 
-        public Form3()
+        public Form3(NhanVien nv)
         {
             InitializeComponent();
             SidePanel.Width = btnOverview.Width;
             SidePanel.Left = btnOverview.Left;
             overview11.BringToFront();
+            this.nv = nv;
             overview11.Nv = nv;
+            MessageBox.Show(nv.NhanVienID.ToString());
             booking1.Nv = nv;
 
         }

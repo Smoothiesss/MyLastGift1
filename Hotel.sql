@@ -483,3 +483,11 @@ select * from Guest where IDINFO like 'unk%%'
 
 update GUEST set IDINFO = 'unk1',FullNAME = 'ga tai chanh' where idinfo = '000000002'
  select * from BOOKING
+
+ select * from Guest
+
+select  bookingID,fullname , booking.RoomID ,ROOMTYPEID,Checkin,checkout,bookingTypeID 
+from (Booking left join GUEST on booking.idinfo = guest.idinfo) left join room on booking.ROOMID = ROOM.ROOMID
+where checkin <= '12/03/2018 13:38:42' and CHECKOUT >= '12/03/2018 13:38:42'
+
+ select * from Guest where IDinfo in (select IDinfo from booking where checkin <= getdate() and CHECKOUT > getdate())

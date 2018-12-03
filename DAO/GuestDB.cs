@@ -68,7 +68,7 @@ namespace DAO
 
         public bool insert(Guest g)
         {
-            string sql = "insert into Guest values ( @infoID, @Name, @nationality,@DOB)";
+            string sql = "insert into Guest values ( @infoID, @Name,@DOB, @nationality)";
             SqlConnection conn = dp.getConnection();
             cmd = new SqlCommand(sql, conn);
             try
@@ -78,14 +78,14 @@ namespace DAO
                 cmd.Parameters.Add("@infoID", SqlDbType.Char).Value = g.InfoID;
                 cmd.Parameters.Add("@Name", SqlDbType.Char).Value = g.FullName;
                 cmd.Parameters.Add("@nationality", SqlDbType.Char).Value = g.Nationality;
-                cmd.Parameters.Add("@DOB", SqlDbType.Char).Value = g.DOB;
+                cmd.Parameters.Add("@DOB", SqlDbType.DateTime).Value = g.DOB;
                 cmd.ExecuteNonQuery();
                 conn.Close();
 
             }
             catch (Exception e)
             {
-
+                Console.WriteLine(e.Message);
                 return false;
             }
             return true;

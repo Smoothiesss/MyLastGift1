@@ -27,7 +27,7 @@ namespace MyLastGift
             {
                 
                 nv = value;
-                staffComboBox.Text = "abc";
+                staffComboBox.Text = nv.TenNv;
             }
         }
 
@@ -130,8 +130,8 @@ namespace MyLastGift
         public void updatePrice(double days)
         {
             string roomType = roomTypeComboBox.Text;
-
-            int roomPrice = 500;
+            PayBUS pbus = new PayBUS();
+            int roomPrice = pbus.getRoomPrice(roomType);
             int tmp =   roomPrice * (int)days;
             priceLabel.Text = tmp.ToString();
         }
@@ -146,11 +146,20 @@ namespace MyLastGift
             
             string name = guestNameTextBox.Text;
             string nal = nationTB.Text;
-            Guest g = new Guest("0", name, nal, DateTime.Now);
+
+            Guest g = new Guest(null, name, nal, DateTime.Now);
 
             GuestBUS gBUS = new GuestBUS();
 
             g = gBUS.insertGuest(g);
+            if (g != null)
+            {
+                MessageBox.Show(g.FullName + " " + g.Nationality);
+            }
+            else
+            {
+                return;
+            }
 
             string roomType = roomTypeComboBox.Text;
             string roomID = roomComboBox.Text;
@@ -179,12 +188,17 @@ namespace MyLastGift
             DTO.Booking b = new DTO.Booking(0, roomID, g.InfoID, type, nv.NhanVienID, DateTime.Now, dateIn, dateout, breakfast);
 
             BookingBUS bBUS = new BookingBUS();
-            Console.WriteLine(bBUS.InsertBooking(b));
+            if (bBUS.InsertBooking(b))
+            {
+                MessageBox.Show("ADD BOOKING SUCCESS FULL", "CONFIRMATION",
+                    MessageBoxButtons.OK);
+            }
+            else
+            {
 
-        }
-
-        private void newBooking_Click(object sender, EventArgs e)
-        {
+                MessageBox.Show("ADD BOOKING SUCCESS FAILED", "CONFIRMATION",
+                    MessageBoxButtons.OK,MessageBoxIcon.Error);
+            }
 
         }
     }

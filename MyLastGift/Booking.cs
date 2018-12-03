@@ -32,6 +32,7 @@ namespace MyLastGift
             {
                 nv = value;
                 newBooking1.Nv = nv;
+                
             }
         }
 
@@ -55,10 +56,10 @@ namespace MyLastGift
         }
         void LoadGrid()
         {
-            newBooking1.Nv = nv;
             BookingBUS b = new BookingBUS();
             DateTime d = DateTime.Now;
             DataTable dt = b.getBookingbyDate(d);
+            MessageBox.Show(dt.Rows.Count.ToString() + " " + d.ToString("M/d/yyyy HH:mm:ss"));
             gridControl1.BindingContext = this.BindingContext;
             gridControl1.DataSource = dt;
             gridView1.OptionsBehavior.Editable = false;
@@ -298,7 +299,8 @@ namespace MyLastGift
 
                 bookInfo.fromDateLabel.Text = checkIn.ToString("dd.MM.yyyy");
                 bookInfo.toDayLabel.Text = checkOut.ToString("dd.MM.yyyy");
-                bookInfo.priceLabel.Text = price.ToString();
+                PayBUS pBUS = new PayBUS();
+                bookInfo.priceLabel.Text = pBUS.getTotalPrice(b).ToString();
 
 
             }

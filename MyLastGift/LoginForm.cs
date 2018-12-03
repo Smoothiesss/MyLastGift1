@@ -47,7 +47,7 @@ namespace MyLastGift
             NhanVien nv = nvBus.checkLogin(acc, pass);
             if (nv != null)
             {
-                Form3 f = new Form3();
+                Form3 f = new Form3(nv);
                 this.Hide();
 
                 f.Nv = nv;

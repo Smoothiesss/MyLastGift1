@@ -60,10 +60,12 @@ namespace BUS
         {
             if (g.InfoID == null)
             {
-                g.InfoID = "unk" + gDb.getMaxUnk();
+                g.InfoID = "unk" + (int)(gDb.getMaxUnk()+1);
+                Console.WriteLine("guest id" +" " +g.InfoID);
             }
-            gDb.insert(g);
-            return g;
+            if (gDb.insert(g))
+                return g;
+            else return null;
         }
     }
 }

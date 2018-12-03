@@ -8,23 +8,20 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DTO;
+using BUS;
 
 
 namespace MyLastGift
 {
     public partial class BookingInformation : UserControl
     {
-       
 
-        Room roomDTO;
-        RoomType typeRoomDTO;
-        Guest guestDTO;
-        DTO.Booking bookingDTO;
+        PayBUS pBus;
 
         public BookingInformation()
         {
             InitializeComponent();
-          
+            pBus = new PayBUS();
         }
 
         public void setBookingInfo(int bookingID, string roomID, int roomTypeID, int status, string guestName, int price, DateTime dateFrom, DateTime dateTo)
@@ -100,10 +97,6 @@ namespace MyLastGift
             this.bookID.Text = bookingID.ToString();
         }
 
-        public void setBookingTypeID(String bookingTypeID)
-        {
-            bookingTypeID = bookingDTO.BookingTypeID;
-        }
 
         public void setDateFrom(DateTime dateFrom)
         {

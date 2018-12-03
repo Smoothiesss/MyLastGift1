@@ -36,5 +36,12 @@ namespace MyLastGift
                 booking.Visible = true;
             }
         }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            string name = guestNameTextBox.Text;
+            string id = textBox1.Text;
+            string booking
+        }
     }
 }

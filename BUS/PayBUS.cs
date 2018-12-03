@@ -51,6 +51,49 @@ namespace BUS
             return ans;
         }
 
+        public int getRoomPrice(string id)
+        {
+            RoomType rt = rBUS.getRoomTypeByID(id);
+            return rt.Price;
+
+        }
+
+        public int getTotalPrice(Booking b)
+        {
+            Room r = rBUS.getRoomByID(b.RoomID);
+            RoomType rt = rBUS.getRoomTypeByID(r.RoomType);
+            Consume c = cBUS.getConsumeByID(b.BookingID.ToString(), b.BookingTypeID);
+            Prepaid p = getPrepaid(b);
+
+            Excel.Application xlApp = new Excel.Application();
+            Excel.Workbook xlWorkbook = xlApp.Workbooks.Open(@"C:\Users\Zunnie\Desktop\MyLastGift\BUS\thanhtoan.xlsx");
+            Excel._Worksheet xlWorksheet = xlWorkbook.Sheets[1];
+            Excel.Range xlRange = xlWorksheet.UsedRange;
+
+            TimeSpan span = b.CheckOut - b.CheckIn;
+            double days = Math.Ceiling((double)span.TotalHours / 24);
+
+            int colaPrice = (int)xlRange.Cells[13, 6].Value2;
+            int surcharePrice = rt.Price / 2;
+            int laviePrice = (int)xlRange.Cells[14, 6].Value2;
+            int snackPrice = (int)xlRange.Cells[15, 6].Value2;
+            int noodlePrice = (int)xlRange.Cells[16, 6].Value2;
+            int ExtraBed = (int)xlRange.Cells[17, 6].Value2;
+            xlApp.Quit();
+
+           
+            int total = (int)days * rt.Price;
+            if (c != null)
+            {
+                total = total +  colaPrice * c.CoCaCola + snackPrice * c.Snack + noodlePrice * c.InstantNoodle + c.Surchare * surcharePrice + c.ExtraBed * ExtraBed;
+            }
+            if (p != null)
+            {
+                total = total - p.Amount;
+            }
+                return total;
+        }
+
         public void PayingSheet(Booking b)
         {
             Room r = rBUS.getRoomByID(b.RoomID);

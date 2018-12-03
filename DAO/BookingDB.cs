@@ -128,12 +128,12 @@ namespace DAO
 
         public DataTable getByDate(DateTime date)
         {
-            string dates = date.ToString("M/d/yyyy hh:mm:ss");
+            string dates = date.ToString("M/d/yyyy HH:mm:ss");
             //creat sql 
             String sql = @"select  bookingID,fullname , booking.RoomID ,ROOMTYPEID,Checkin,checkout,bookingTypeID 
 from (Booking left join GUEST on booking.idinfo = guest.idinfo) left join room on booking.ROOMID = ROOM.ROOMID
-where checkin <= '" + dates + "' and CHECKOUT >= '" + dates + "'";
-
+where checkin <= '"+ dates +"' and CHECKOUT >= '"+ dates+"'";
+            Console.WriteLine(sql);
             // make connection to database
             SqlConnection conn = dp.getConnection();
 
