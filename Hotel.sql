@@ -490,6 +490,7 @@ values
 select * from ROOMTYPE where ROOMTYPEID = 'SUPERIOR'
 select * from Guest where IDINFO like 'unk%%'
 
+<<<<<<< HEAD
 update GUEST set IDINFO = '00000002',FullNAME = 'ga tai chanh' where idinfo = 'unk1'
 
 select * from booking where BOOKINGID = 1 and BOOKINGTYPEID ='001'
@@ -499,3 +500,8 @@ where ROOMID = '103' and
 ((CHECKIN <= '12/4/2018 14:00:00' AND CHECKOUT >= '12/4/2018 14:00:00' ) 
            OR (CHECKIN < '12/5/2018 12:00:00' AND CHECKOUT >= '12/5/2018 12:00:00' ) 
            OR ('12/4/2018 14:00:00' <= CHECKIN AND '12/5/2018 11:00:00' >= CHECKIN))
+=======
+update GUEST set IDINFO = 'unk1',FullNAME = 'ga tai chanh' where idinfo = '000000002'
+
+select * from booking where BOOKINGID = 1 and BOOKINGTYPEID ='001'
+>>>>>>> d83bef66758ef14565c5f2d246435d4c2bab2c07
